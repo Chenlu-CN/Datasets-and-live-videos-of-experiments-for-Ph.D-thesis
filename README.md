@@ -1,3 +1,3 @@
-# Datasets-and-live-videos-of-experiments-for-Ph.D-thesis
+# 博士论文资料汇总
 
 文件夹包括论文中使用到的自建数据集和相关应用及实验过程的实况视频，根据论文章节进行了分类。
