@@ -1,0 +1,39 @@
+{
+  "version": "2.4.4",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "people",
+      "score": null,
+      "points": [
+        [
+          329.7319587628865,
+          4.226804123711306
+        ],
+        [
+          543.0,
+          4.226804123711306
+        ],
+        [
+          543.0,
+          916
+        ],
+        [
+          329.7319587628865,
+          916
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    }
+  ],
+  "imagePath": "frame_6088.jpg",
+  "imageData": null,
+  "imageHeight": 960,
+  "imageWidth": 544
+}

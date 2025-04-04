@@ -1,0 +1,39 @@
+{
+  "version": "2.4.4",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "LNJ",
+      "score": null,
+      "points": [
+        [
+          44.713178294573694,
+          306.8992248062016
+        ],
+        [
+          350.13953488372096,
+          306.8992248062016
+        ],
+        [
+          350.13953488372096,
+          441.7829457364341
+        ],
+        [
+          44.713178294573694,
+          441.7829457364341
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    }
+  ],
+  "imagePath": "LiaoNingJ_01_0342.jpg",
+  "imageData": null,
+  "imageHeight": 720,
+  "imageWidth": 984
+}

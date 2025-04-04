@@ -1,0 +1,39 @@
+{
+  "version": "2.4.4",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "T72",
+      "score": null,
+      "points": [
+        [
+          483.0743801652893,
+          391.67768595041326
+        ],
+        [
+          533.4876033057851,
+          391.67768595041326
+        ],
+        [
+          533.4876033057851,
+          415.6446280991736
+        ],
+        [
+          483.0743801652893,
+          415.6446280991736
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    }
+  ],
+  "imagePath": "T72_01_0600.jpg",
+  "imageData": null,
+  "imageHeight": 766,
+  "imageWidth": 1024
+}

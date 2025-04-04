@@ -1,0 +1,39 @@
+{
+  "version": "2.4.4",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "M1A2",
+      "score": null,
+      "points": [
+        [
+          497.12396694214874,
+          361.9256198347108
+        ],
+        [
+          525.2231404958678,
+          361.9256198347108
+        ],
+        [
+          525.2231404958678,
+          385.06611570247935
+        ],
+        [
+          497.12396694214874,
+          385.06611570247935
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    }
+  ],
+  "imagePath": "M1A2_0502.jpg",
+  "imageData": null,
+  "imageHeight": 766,
+  "imageWidth": 1024
+}

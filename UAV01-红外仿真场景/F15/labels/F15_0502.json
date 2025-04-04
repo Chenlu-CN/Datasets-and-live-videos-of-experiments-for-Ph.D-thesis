@@ -1,0 +1,39 @@
+{
+  "version": "2.4.4",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "F15",
+      "score": null,
+      "points": [
+        [
+          38.446280991735534,
+          350.35537190082647
+        ],
+        [
+          165.7190082644628,
+          350.35537190082647
+        ],
+        [
+          165.7190082644628,
+          409.85950413223145
+        ],
+        [
+          38.446280991735534,
+          409.85950413223145
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    }
+  ],
+  "imagePath": "F15_0502.jpg",
+  "imageData": null,
+  "imageHeight": 766,
+  "imageWidth": 1024
+}

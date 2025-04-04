@@ -1,0 +1,68 @@
+{
+  "version": "2.4.4",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "robot1",
+      "score": null,
+      "points": [
+        [
+          675.483870967742,
+          81.37096774193546
+        ],
+        [
+          810.9677419354839,
+          81.37096774193546
+        ],
+        [
+          810.9677419354839,
+          232.98387096774192
+        ],
+        [
+          675.483870967742,
+          232.98387096774192
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    },
+    {
+      "label": "people",
+      "score": null,
+      "points": [
+        [
+          613.3870967741935,
+          1.5322580645161104
+        ],
+        [
+          679.516129032258,
+          1.5322580645161104
+        ],
+        [
+          679.516129032258,
+          170.0806451612903
+        ],
+        [
+          613.3870967741935,
+          170.0806451612903
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    }
+  ],
+  "imagePath": "frame_2360.jpg",
+  "imageData": null,
+  "imageHeight": 720,
+  "imageWidth": 1280
+}

@@ -1,0 +1,39 @@
+{
+  "version": "2.4.4",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "F7",
+      "score": null,
+      "points": [
+        [
+          2.0826446280991604,
+          245.39669421487605
+        ],
+        [
+          832.6611570247934,
+          245.39669421487605
+        ],
+        [
+          832.6611570247934,
+          399.1157024793389
+        ],
+        [
+          2.0826446280991604,
+          399.1157024793389
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {},
+      "kie_linking": []
+    }
+  ],
+  "imagePath": "F7_0564.jpg",
+  "imageData": null,
+  "imageHeight": 766,
+  "imageWidth": 1024
+}
