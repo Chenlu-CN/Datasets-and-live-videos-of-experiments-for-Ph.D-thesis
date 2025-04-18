@@ -1,4 +1,4 @@
-# 博士论文资料汇总（动图需要网页加载几秒钟，需要耐心等待一下）
+![334f4ce94600c7de2238d1a36a6f07e](https://github.com/user-attachments/assets/91d70210-7883-4b69-a25d-b49b032200ba)# 博士论文资料汇总（动图需要网页加载几秒钟，需要耐心等待一下）
 
 文件夹包括论文中使用到的自建数据集和相关应用及实验过程的实况视频，根据论文章节进行了分类。
 
@@ -14,3 +14,12 @@
 ![4月8日(1)](https://github.com/user-attachments/assets/dacf7e1c-b4bc-4cea-8373-4ace9495a8b4)    ![4月8日(1)](https://github.com/user-attachments/assets/dacf7e1c-b4bc-4cea-8373-4ace9495a8b4)
 
 大尺度校园定位建图
+
+
+
+
+# 第六章 基于视觉感知的运动目标快速分类及控制抓取方法
+
+1.多视觉模版特征匹配的密集分类标签识别及信息提取方法
+
+[![基于THNSW-SURF的多面并行分类信息提取实际应用实况（3C行业）](assets/demo-thumbnail.png)](https://www.bilibili.com/video/BVxxxxxxxxx)
