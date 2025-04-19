@@ -14,6 +14,7 @@ ACDet零样本检测效果（部分场景，和MIVD数据集中“2nd products-G
 # 第四章 基于ECO的抗遮挡及消失视觉长期跟踪方法
 
 ![Demo](https://github.com/Chenlu-CN/GIF/blob/b27ea44d4861a99360b376241d9dbf17e06a2d64/%E5%A4%8D%E5%90%88%E6%9C%BA%E5%99%A8%E4%BA%BA%E5%9F%BA%E4%BA%8ESFC-RT%E6%89%A7%E8%A1%8C%E8%B7%9F%E8%B8%AA%E5%8D%8F%E5%8A%A9%E5%B7%A1%E6%A3%80.gif)
+
 基于SFC-RT框架的复合机器人跟踪主目标，协助巡检任务验证
 
 # 第五章 多传感器融合定位建图及组合导航方法
