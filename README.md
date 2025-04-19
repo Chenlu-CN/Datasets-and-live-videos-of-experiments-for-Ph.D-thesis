@@ -5,11 +5,9 @@
 # 第三章 非结构化场景照度变化下的目标检测方法
 注意：其中MIVD数据集中的第2/3类，由于数据集文件夹过大（分别为11.8GB和6.37GB），无法上传到github上，我们将其上传至百度网盘，并共享了链接，点开MIVD文件夹对应的子文件夹可以找到永久分享的下载链接。
 
+![4月19日](https://github.com/user-attachments/assets/018010ff-1181-4988-b594-3fad285aef0f)  ![1745083515600](https://github.com/user-attachments/assets/0f67e89d-5033-4c74-a7ca-6a719e530223)
 
-
-ACDet零样本检测效果（部分场景，和MIVD数据集中“2nd products-Grayscale images dataset”相似场景）
-
-![4月19日](https://github.com/user-attachments/assets/018010ff-1181-4988-b594-3fad285aef0f)
+ACDet零样本检测效果（部分场景，和MIVD数据集中“2nd products-Grayscale images dataset”相似场景）     复合机器人机械臂末端相机执行检测任务
 
 [点击观看视频-基于ACDet的实际工业视觉检测实际应用实况（智慧物流、仓储、医药配送行业）](https://www.bilibili.com/video/BV1p556zKEMC/?spm_id_from=333.1387.homepage.video_card.click)
 
