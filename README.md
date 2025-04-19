@@ -9,6 +9,8 @@
 
 ACDet零样本检测效果（部分场景，和MIVD数据集中“2nd products-Grayscale images dataset”相似场景）
 
+![4月19日](https://github.com/user-attachments/assets/018010ff-1181-4988-b594-3fad285aef0f)
+
 [点击观看视频-基于ACDet的实际工业视觉检测实际应用实况（智慧物流、仓储、医药配送行业）](https://www.bilibili.com/video/BV1p556zKEMC/?spm_id_from=333.1387.homepage.video_card.click)
 
 # 第四章 基于ECO的抗遮挡及消失视觉长期跟踪方法
