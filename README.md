@@ -5,13 +5,15 @@
 # 第三章 非结构化场景照度变化下的目标检测方法
 注意：其中MIVD数据集中的第2/3类，由于数据集文件夹过大（分别为11.8GB和6.37GB），无法上传到github上，我们将其上传至百度网盘，并共享了链接，点开MIVD文件夹对应的子文件夹可以找到永久分享的下载链接。
 
-
 ACDet检测效果（部分场景，和MIVD数据集中“2nd products-Grayscale images dataset”）相似
 
 [点击观看视频-基于ACDet的实际工业视觉检测应用实况](https://www.bilibili.com/video/BV1p556zKEMC/?spm_id_from=333.1387.homepage.video_card.click)
 
-# 第五章 多传感器融合定位建图及组合导航方法
+# 第四章 基于ECO的抗遮挡及消失视觉长期跟踪方法
 
+基于SFC-RT框架的复合机器人跟踪主目标，协助巡检验证
+
+# 第五章 多传感器融合定位建图及组合导航方法
 
 ![4月8日(1)](https://github.com/user-attachments/assets/dacf7e1c-b4bc-4cea-8373-4ace9495a8b4)    ![4月8日(1)](https://github.com/user-attachments/assets/dacf7e1c-b4bc-4cea-8373-4ace9495a8b4)
 
