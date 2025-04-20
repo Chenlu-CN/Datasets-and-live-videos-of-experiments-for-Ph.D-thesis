@@ -47,7 +47,8 @@ ACDet零样本检测效果（部分场景，和MIVD数据集中“2nd products-G
 
 因此，作者根据日益广泛的需求，对复合机器人开展了深入的研究。目前及未来将要进行的工作之一，就是用复合机器人实现图（b）的效果，即分布式集群纯自主工作模式。利用视觉感知与IIVL-LM去实现自主移动，到达指定位置后通过视觉感知估计设备开关位姿，自动执行上下货的末端精确动作执行。
 
-![过去做的](https://github.com/user-attachments/assets/91d256c9-6adb-4db1-92ff-5f8a9fb48c82)![image](https://github.com/user-attachments/assets/8d23ce75-3c35-4d17-95ff-5961712e6577)
+![过去做的](https://github.com/user-attachments/assets/91d256c9-6adb-4db1-92ff-5f8a9fb48c82)![image](https://github.com/user-attachments/assets/0a9b1771-bb86-41b8-a5bc-59197b41aadb)
+
 
 
 
