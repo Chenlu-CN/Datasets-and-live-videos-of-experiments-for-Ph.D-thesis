@@ -26,6 +26,7 @@ ACDet零样本检测效果（部分场景，和MIVD数据集中“2nd products-G
 
 小尺度室内工业场景定位建图![image](https://github.com/user-attachments/assets/508b2ff3-4f34-440b-8630-53e47ead0fde)大尺度校园定位建图
 
+![4月20日 (2)(14)](https://github.com/user-attachments/assets/0a52402d-860f-40fc-8371-debb9195e5e2)![4月20日 (2)(10)](https://github.com/user-attachments/assets/a352047c-6e3c-4a7a-a316-de2fe17e1f39)
 
 灭火救援任务自主导航![image](https://github.com/user-attachments/assets/508b2ff3-4f34-440b-8630-53e47ead0fde)搬运生产任务自主导航
 
