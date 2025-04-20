@@ -22,7 +22,7 @@ ACDet零样本检测效果（部分场景，和MIVD数据集中“2nd products-G
 
 ![小尺度建图](https://github.com/user-attachments/assets/d6ad25d2-5686-46e9-9d7a-1ce50d49b3ef) ![4月8日(1)](https://github.com/user-attachments/assets/dacf7e1c-b4bc-4cea-8373-4ace9495a8b4)
 
-小尺度室内工业场景定位建图![image](https://github.com/user-attachments/assets/508b2ff3-4f34-440b-8630-53e47ead0fde)大尺度校园定位建图
+小尺度室内工业场景定位建图![image](https://github.com/user-attachments/assets/af002865-377b-4f48-ad3e-0aac0cc18a19)大尺度校园定位建图
 
 ![4月20日 (2)(14)](https://github.com/user-attachments/assets/0a52402d-860f-40fc-8371-debb9195e5e2)![image](https://github.com/user-attachments/assets/898ca18d-9dbe-4cf6-894e-2cb4738794a5)
 ![4月20日 (2)(10)](https://github.com/user-attachments/assets/a352047c-6e3c-4a7a-a316-de2fe17e1f39)
