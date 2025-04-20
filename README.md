@@ -42,7 +42,8 @@ ACDet零样本检测效果（部分场景，和MIVD数据集中“2nd products-G
 ![动态抓取](https://github.com/user-attachments/assets/8b559baa-351d-4af8-954d-56a8974d0a7a)![静态抓取3](https://github.com/user-attachments/assets/e2e219ba-e72f-4b26-a5ee-68bee31c97fa)![静态抓取2](https://github.com/user-attachments/assets/2aba5c25-1fe9-45a5-9fa4-32884d63c5d4)![静态抓取](https://github.com/user-attachments/assets/54277403-bed2-409d-8605-aeabf42a30be)![货架抓取](https://github.com/user-attachments/assets/3bfe84cf-f9d8-4be7-9b7d-2fe8646a08e9)
 
 
-匀速运动目标抓取![image](https://github.com/user-attachments/assets/4452a587-cb06-4514-b114-9654d0e51ae0)静态弹夹拆卸![image](https://github.com/user-attachments/assets/4452a587-cb06-4514-b114-9654d0e51ae0)静态多目标抓取![image](https://github.com/user-attachments/assets/4452a587-cb06-4514-b114-9654d0e51ae0)静态货架内抓取
+匀速运动目标抓取![image](https://github.com/user-attachments/assets/64fc0682-46e7-4b4a-bacd-9ea3ec7b40dd)静态弹夹拆卸![image](https://github.com/user-attachments/assets/4452a587-cb06-4514-b114-9654d0e51ae0)静态多目标抓取![image](https://github.com/user-attachments/assets/6de7ae21-a3d6-4a09-b688-425ce49a9286)
+静态货架内抓取
 
 
 
