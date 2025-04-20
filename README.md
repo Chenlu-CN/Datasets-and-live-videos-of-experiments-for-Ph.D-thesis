@@ -37,7 +37,12 @@ ACDet零样本检测效果（部分场景，和MIVD数据集中“2nd products-G
 
 [点击观看视频-基于THNSW-SURF的多面并行分类信息提取工业场景实际应用实况（3C行业）](https://www.bilibili.com/video/BV1p556zKEws/?spm_id_from=333.1387.homepage.video_card.click)
 
-2.机器人抓取测试
+2.复合机器人抓取测试
+
+![动态抓取](https://github.com/user-attachments/assets/8b559baa-351d-4af8-954d-56a8974d0a7a)![静态抓取3](https://github.com/user-attachments/assets/e2e219ba-e72f-4b26-a5ee-68bee31c97fa)![静态抓取2](https://github.com/user-attachments/assets/2aba5c25-1fe9-45a5-9fa4-32884d63c5d4)![静态抓取](https://github.com/user-attachments/assets/54277403-bed2-409d-8605-aeabf42a30be)![货架抓取](https://github.com/user-attachments/assets/3bfe84cf-f9d8-4be7-9b7d-2fe8646a08e9)
+
+
+匀速运动目标抓取![image](https://github.com/user-attachments/assets/4452a587-cb06-4514-b114-9654d0e51ae0)静态弹夹拆卸![image](https://github.com/user-attachments/assets/4452a587-cb06-4514-b114-9654d0e51ae0)静态多目标抓取![image](https://github.com/user-attachments/assets/4452a587-cb06-4514-b114-9654d0e51ae0)静态货架内抓取
 
 
 
