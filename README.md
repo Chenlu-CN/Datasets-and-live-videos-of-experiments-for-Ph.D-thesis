@@ -3,7 +3,7 @@
 展示并上传了：论文中使用到的自建数据集、已经落地并商用化的相关应用及重要典型实验过程的实况视频，根据论文章节进行了分类。
 
 # 第三章 非结构化场景照度变化下的目标检测方法
-注意：其中MIVD数据集中的第2/3类，由于数据集文件夹过大（分别为11.8GB和6.37GB），无法上传到github上，我们将其上传至百度网盘，并共享了链接，点开MIVD文件夹对应的子文件夹可以找到永久分享的下载链接。
+注意：其中MIVD数据集中的第2/3类，由于数据集文件夹过大（分别为11.8GB和6.37GB），无法上传到github上，作者将其上传至百度网盘，并共享了链接，点开MIVD文件夹对应的子文件夹可以找到永久分享的下载链接。
 
 ![4月19日](https://github.com/user-attachments/assets/018010ff-1181-4988-b594-3fad285aef0f)![image](https://github.com/user-attachments/assets/d1a8650c-2c4a-4699-8c41-bc39e66505fa)![111](https://github.com/user-attachments/assets/cbd48e77-f820-46bc-9b63-0ee92fae3b9a)
 
