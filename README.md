@@ -20,7 +20,7 @@ ACDet零样本检测效果（部分场景，和MIVD数据集中“2nd products-G
 基于SFC-RT框架的复合机器人跟踪主目标协助巡检任务验证-主目标形态变化/环境光照变化/多目标干扰情况下跟随巡检-跟随模拟火源测试
 
 
-# 第五章 多传感器融合定位建图及组合导航方法
+# 第五章 多传感器融合定位建图及导航方法
 
 ![4月8日(1)](https://github.com/user-attachments/assets/dacf7e1c-b4bc-4cea-8373-4ace9495a8b4)    ![4月8日(1)](https://github.com/user-attachments/assets/dacf7e1c-b4bc-4cea-8373-4ace9495a8b4)
 
