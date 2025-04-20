@@ -27,7 +27,7 @@ ACDet零样本检测效果（部分场景，和MIVD数据集中“2nd products-G
 ![4月20日 (2)(14)](https://github.com/user-attachments/assets/0a52402d-860f-40fc-8371-debb9195e5e2)![image](https://github.com/user-attachments/assets/898ca18d-9dbe-4cf6-894e-2cb4738794a5)
 ![4月20日 (2)(10)](https://github.com/user-attachments/assets/a352047c-6e3c-4a7a-a316-de2fe17e1f39)
 
-灭火救援任务自主导航![image](https://github.com/user-attachments/assets/508b2ff3-4f34-440b-8630-53e47ead0fde)搬运生产任务自主导航
+灭火救援任务自主导航![image](https://github.com/user-attachments/assets/c5232d42-42e0-4d01-95ff-85a65b41a4d8)搬运生产任务自主导航
 
 # 第六章 基于视觉感知的运动目标分类及控制抓取方法
 
