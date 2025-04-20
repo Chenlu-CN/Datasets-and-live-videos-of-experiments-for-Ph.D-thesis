@@ -41,7 +41,7 @@ ACDet零样本检测效果（部分场景，和MIVD数据集中“2nd products-G
 
 匀速运动目标抓取![image](https://github.com/user-attachments/assets/64fc0682-46e7-4b4a-bacd-9ea3ec7b40dd)静态弹夹拆卸![image](https://github.com/user-attachments/assets/464e2162-5e55-407c-b777-91dfad2e3263)静态多目标抓取![image](https://github.com/user-attachments/assets/84526017-cd64-4c9d-808d-093b9b3946fb)静态货架内抓取
 
-
+# 其他 关于过去一些相关项目和未来将要研究的方向
 
 
 
