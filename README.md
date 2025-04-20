@@ -37,3 +37,28 @@ ACDet零样本检测效果（部分场景，和MIVD数据集中“2nd products-G
 
 [点击观看视频-基于THNSW-SURF的多面并行分类信息提取工业场景实际应用实况（3C行业）](https://www.bilibili.com/video/BV1p556zKEws/?spm_id_from=333.1387.homepage.video_card.click)
 
+2.机器人抓取测试
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
