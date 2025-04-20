@@ -13,7 +13,7 @@ ACDet零样本检测效果（部分场景，和MIVD数据集中“2nd products-G
 
 # 第四章 基于ECO的抗遮挡及消失视觉长期跟踪方法
 
-![4月20日(6)](https://github.com/user-attachments/assets/dfab4abe-1db2-4500-9bad-34b2773afb2a) ![image](https://github.com/user-attachments/assets/2de68a68-47ca-4be1-a6e8-5f17823e5bcc)![4月19日 (2)(2)](https://github.com/user-attachments/assets/e4b838f7-37fd-4378-9867-9fc003bb0be1)
+![4月20日(6)](https://github.com/user-attachments/assets/dfab4abe-1db2-4500-9bad-34b2773afb2a) ![image](https://github.com/user-attachments/assets/d1a8650c-2c4a-4699-8c41-bc39e66505fa)![4月19日 (2)(2)](https://github.com/user-attachments/assets/e4b838f7-37fd-4378-9867-9fc003bb0be1)
 
 基于SFC-RT框架的复合机器人跟踪主目标协助巡检任务验证-主目标形态变化/环境光照变化/多目标干扰情况下跟随巡检-跟随模拟火源测试
 
