@@ -41,6 +41,11 @@ ACDet零样本检测效果（部分场景，和MIVD数据集中“2nd products-G
 
 匀速运动目标抓取![image](https://github.com/user-attachments/assets/64fc0682-46e7-4b4a-bacd-9ea3ec7b40dd)静态弹夹拆卸![image](https://github.com/user-attachments/assets/464e2162-5e55-407c-b777-91dfad2e3263)静态多目标抓取![image](https://github.com/user-attachments/assets/ddcc9409-0dc6-4300-a452-ad23d5053c99)货架内静态分类抓取
 
+![4月20日 (3)(1)](https://github.com/user-attachments/assets/362ee42c-d2d1-4df6-a37a-e59cbaaf6db7)
+
+对匀速运动目标进行跟踪控制，执行分类抓取
+
+
 # 其他 研究背景和未来将要研究的方向
 
 图（a）展示了作者过去为某半导体芯片厂商设计的RFID纯移动地面机器人(AGV)，用以辅助输送装载芯片的弹夹到指定区域。但是由于没有协作机械臂，需要人为辅助，且是通过中央调度系统下发任务的。
