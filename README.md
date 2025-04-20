@@ -15,7 +15,7 @@ ACDet零样本检测效果（部分场景，和MIVD数据集中“2nd products-G
 
 ![4月20日(6)](https://github.com/user-attachments/assets/dfab4abe-1db2-4500-9bad-34b2773afb2a)![image](https://github.com/user-attachments/assets/a9e01554-71ff-408d-9fae-d78703bac9b4)
 ![4月19日 (2)(2)](https://github.com/user-attachments/assets/e4b838f7-37fd-4378-9867-9fc003bb0be1)![image](https://github.com/user-attachments/assets/f3282ed2-4e48-47d9-8b9e-b2f5a653ca06)
-![4月20日(7)](https://github.com/user-attachments/assets/aa1f5054-cbf7-496d-8466-8ef0a91eecbe)
+![4月20日 (2)(5)](https://github.com/user-attachments/assets/f3fd9289-2f9b-4b82-8f17-1a08c841f1b4)
 
 基于SFC-RT框架的复合机器人跟踪主目标协助巡检任务验证-主目标形态变化/环境光照变化/多目标干扰情况下跟随巡检-跟随模拟火源测试
 
