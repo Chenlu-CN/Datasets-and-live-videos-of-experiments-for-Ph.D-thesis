@@ -27,7 +27,7 @@ ACDet零样本检测效果（部分场景，和MIVD数据集中“2nd products-G
 小尺度室内工业场景定位建图![image](https://github.com/user-attachments/assets/508b2ff3-4f34-440b-8630-53e47ead0fde)大尺度校园定位建图
 
 
-
+灭火救援任务自主导航![image](https://github.com/user-attachments/assets/508b2ff3-4f34-440b-8630-53e47ead0fde)搬运生产任务自主导航
 
 # 第六章 基于视觉感知的运动目标分类及控制抓取方法
 
