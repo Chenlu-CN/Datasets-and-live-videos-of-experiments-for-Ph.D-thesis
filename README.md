@@ -22,7 +22,7 @@ ACDet零样本检测效果（部分场景，和MIVD数据集中“2nd products-G
 
 # 第五章 多传感器融合定位建图及导航方法
 
-![4月8日(1)](https://github.com/user-attachments/assets/dacf7e1c-b4bc-4cea-8373-4ace9495a8b4)    ![4月8日(1)](https://github.com/user-attachments/assets/dacf7e1c-b4bc-4cea-8373-4ace9495a8b4)
+![小尺度建图](https://github.com/user-attachments/assets/d6ad25d2-5686-46e9-9d7a-1ce50d49b3ef) ![4月8日(1)](https://github.com/user-attachments/assets/dacf7e1c-b4bc-4cea-8373-4ace9495a8b4)
 
 小尺度室内工业场景定位建图![image](https://github.com/user-attachments/assets/508b2ff3-4f34-440b-8630-53e47ead0fde)大尺度校园定位建图
 
