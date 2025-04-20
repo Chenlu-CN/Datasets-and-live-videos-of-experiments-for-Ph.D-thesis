@@ -13,11 +13,9 @@ ACDet零样本检测效果（部分场景，和MIVD数据集中“2nd products-G
 
 # 第四章 抗遮挡及目标消失视觉长期跟踪方法
 
-![4月20日(6)](https://github.com/user-attachments/assets/dfab4abe-1db2-4500-9bad-34b2773afb2a)![image](https://github.com/user-attachments/assets/a9e01554-71ff-408d-9fae-d78703bac9b4)
-![4月19日 (2)(2)](https://github.com/user-attachments/assets/e4b838f7-37fd-4378-9867-9fc003bb0be1)![image](https://github.com/user-attachments/assets/f3282ed2-4e48-47d9-8b9e-b2f5a653ca06)
-![4月20日 (2)(5)](https://github.com/user-attachments/assets/f3fd9289-2f9b-4b82-8f17-1a08c841f1b4)
+![4月20日(6)](https://github.com/user-attachments/assets/dfab4abe-1db2-4500-9bad-34b2773afb2a)![4月19日 (2)(2)](https://github.com/user-attachments/assets/e4b838f7-37fd-4378-9867-9fc003bb0be1)![4月20日 (2)(5)](https://github.com/user-attachments/assets/f3fd9289-2f9b-4b82-8f17-1a08c841f1b4)![控制跟随模拟火源](https://github.com/user-attachments/assets/02b7f821-778b-4dc7-9f3b-067f7d999ba6)
 
-基于SFC-RT框架的复合机器人跟踪主目标协助巡检任务验证-主目标形态变化/环境光照变化/多目标干扰情况下跟随巡检-跟随模拟火源测试
+图片分别为：基于SFC-RT框架的复合机器人跟踪主目标协助巡检任务验证；主目标形态变化/环境光照变化/多目标干扰情况下跟随巡检；复合机器人底盘跟随模拟火源测试；机械臂根据跟踪模拟火源随动模拟灭火测试
 
 
 # 第五章 多传感器融合定位建图及导航方法
@@ -39,11 +37,9 @@ ACDet零样本检测效果（部分场景，和MIVD数据集中“2nd products-G
 
 2.复合机器人抓取测试
 
-![动态抓取](https://github.com/user-attachments/assets/8b559baa-351d-4af8-954d-56a8974d0a7a)![静态抓取3](https://github.com/user-attachments/assets/e2e219ba-e72f-4b26-a5ee-68bee31c97fa)![静态抓取2](https://github.com/user-attachments/assets/2aba5c25-1fe9-45a5-9fa4-32884d63c5d4)![静态抓取](https://github.com/user-attachments/assets/54277403-bed2-409d-8605-aeabf42a30be)![货架抓取](https://github.com/user-attachments/assets/3bfe84cf-f9d8-4be7-9b7d-2fe8646a08e9)![控制跟随模拟火源](https://github.com/user-attachments/assets/02b7f821-778b-4dc7-9f3b-067f7d999ba6)
+![动态抓取](https://github.com/user-attachments/assets/8b559baa-351d-4af8-954d-56a8974d0a7a)![静态抓取3](https://github.com/user-attachments/assets/e2e219ba-e72f-4b26-a5ee-68bee31c97fa)![静态抓取2](https://github.com/user-attachments/assets/2aba5c25-1fe9-45a5-9fa4-32884d63c5d4)![静态抓取](https://github.com/user-attachments/assets/54277403-bed2-409d-8605-aeabf42a30be)![货架抓取](https://github.com/user-attachments/assets/3bfe84cf-f9d8-4be7-9b7d-2fe8646a08e9)
 
-
-
-匀速运动目标抓取![image](https://github.com/user-attachments/assets/64fc0682-46e7-4b4a-bacd-9ea3ec7b40dd)静态弹夹拆卸![image](https://github.com/user-attachments/assets/464e2162-5e55-407c-b777-91dfad2e3263)静态多目标抓取![image](https://github.com/user-attachments/assets/84526017-cd64-4c9d-808d-093b9b3946fb)静态货架内抓取![image](https://github.com/user-attachments/assets/37ba5e08-0a6a-4aac-b73d-3ae2a1dc1e5b)控制跟随模拟火源
+匀速运动目标抓取![image](https://github.com/user-attachments/assets/64fc0682-46e7-4b4a-bacd-9ea3ec7b40dd)静态弹夹拆卸![image](https://github.com/user-attachments/assets/464e2162-5e55-407c-b777-91dfad2e3263)静态多目标抓取![image](https://github.com/user-attachments/assets/84526017-cd64-4c9d-808d-093b9b3946fb)静态货架内抓取
 
 
 
