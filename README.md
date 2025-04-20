@@ -11,7 +11,7 @@ ACDet零样本检测效果（部分场景，和MIVD数据集中“2nd products-G
 
 [点击观看视频-基于ACDet的实际工业视觉检测实际应用实况（智慧物流、仓储、医药配送行业）](https://www.bilibili.com/video/BV1p556zKEMC/?spm_id_from=333.1387.homepage.video_card.click)
 
-# 第四章 基于ECO的抗遮挡及消失视觉长期跟踪方法
+# 第四章 抗遮挡及目标消失视觉长期跟踪方法
 
 ![4月20日(6)](https://github.com/user-attachments/assets/dfab4abe-1db2-4500-9bad-34b2773afb2a)![image](https://github.com/user-attachments/assets/a9e01554-71ff-408d-9fae-d78703bac9b4)
 ![4月19日 (2)(2)](https://github.com/user-attachments/assets/e4b838f7-37fd-4378-9867-9fc003bb0be1)![image](https://github.com/user-attachments/assets/f3282ed2-4e48-47d9-8b9e-b2f5a653ca06)
@@ -29,7 +29,7 @@ ACDet零样本检测效果（部分场景，和MIVD数据集中“2nd products-G
 
 
 
-# 第六章 基于视觉感知的运动目标快速分类及控制抓取方法
+# 第六章 基于视觉感知的运动目标分类及控制抓取方法
 
 1.多视觉模版特征匹配的密集分类标签识别及信息提取方法
 
