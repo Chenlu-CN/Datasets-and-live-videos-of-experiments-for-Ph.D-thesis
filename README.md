@@ -35,14 +35,16 @@ ACDet零样本检测效果（部分场景，和MIVD数据集中“2nd products-G
 
 1.多视觉模版特征匹配的密集分类标签识别及信息提取方法
 
-[点击观看视频-基于THNSW-SURF的多面并行分类信息提取工业场景实际应用实况（3C行业）](https://www.bilibili.com/video/BV1p556zKEws/?spm_id_from=333.1387.homepage.video_card.click)
+[点击观看视频-基于SURF-THNSW的多面并行分类信息提取工业场景实际应用实况（3C行业）](https://www.bilibili.com/video/BV1p556zKEws/?spm_id_from=333.1387.homepage.video_card.click)
 
 2.复合机器人抓取测试
 
-![动态抓取](https://github.com/user-attachments/assets/8b559baa-351d-4af8-954d-56a8974d0a7a)![静态抓取3](https://github.com/user-attachments/assets/e2e219ba-e72f-4b26-a5ee-68bee31c97fa)![静态抓取2](https://github.com/user-attachments/assets/2aba5c25-1fe9-45a5-9fa4-32884d63c5d4)![静态抓取](https://github.com/user-attachments/assets/54277403-bed2-409d-8605-aeabf42a30be)![货架抓取](https://github.com/user-attachments/assets/3bfe84cf-f9d8-4be7-9b7d-2fe8646a08e9)
+![动态抓取](https://github.com/user-attachments/assets/8b559baa-351d-4af8-954d-56a8974d0a7a)![静态抓取3](https://github.com/user-attachments/assets/e2e219ba-e72f-4b26-a5ee-68bee31c97fa)![静态抓取2](https://github.com/user-attachments/assets/2aba5c25-1fe9-45a5-9fa4-32884d63c5d4)![静态抓取](https://github.com/user-attachments/assets/54277403-bed2-409d-8605-aeabf42a30be)![货架抓取](https://github.com/user-attachments/assets/3bfe84cf-f9d8-4be7-9b7d-2fe8646a08e9)![控制跟随模拟火源](https://github.com/user-attachments/assets/02b7f821-778b-4dc7-9f3b-067f7d999ba6)
 
 
-匀速运动目标抓取![image](https://github.com/user-attachments/assets/64fc0682-46e7-4b4a-bacd-9ea3ec7b40dd)静态弹夹拆卸![image](https://github.com/user-attachments/assets/464e2162-5e55-407c-b777-91dfad2e3263)静态多目标抓取![image](https://github.com/user-attachments/assets/84526017-cd64-4c9d-808d-093b9b3946fb)静态货架内抓取
+
+匀速运动目标抓取![image](https://github.com/user-attachments/assets/64fc0682-46e7-4b4a-bacd-9ea3ec7b40dd)静态弹夹拆卸![image](https://github.com/user-attachments/assets/464e2162-5e55-407c-b777-91dfad2e3263)静态多目标抓取![image](https://github.com/user-attachments/assets/84526017-cd64-4c9d-808d-093b9b3946fb)静态货架内抓取![image](https://github.com/user-attachments/assets/37ba5e08-0a6a-4aac-b73d-3ae2a1dc1e5b)控制跟随模拟火源
+
 
 
 
